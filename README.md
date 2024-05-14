@@ -12,8 +12,9 @@ GeminiAssistant is an assistant based on the Gemini API, designed to help users 
 
 ### Installation
 
+tutorials : https://ai.google.dev/gemini-api/docs/get-started/python
 ```
-$ pip install google-generativeai
+$ pip install -q -U google-generativeai
 ```
 
 ### Configuration
