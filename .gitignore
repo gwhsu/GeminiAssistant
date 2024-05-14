@@ -1,5 +1,0 @@
-# .gitignore
-
-# Gemini api key
-secrets.py
-__pycache__/
