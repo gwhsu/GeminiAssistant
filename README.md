@@ -7,8 +7,6 @@ GeminiAssistant is an assistant based on the Gemini API, designed to help users 
 ## Features
 
 - Utilizes the Gemini API for natural language generation and conversational interaction.
-- Supports configuration of parameters such as temperature, probability threshold, etc.
-- Automatically filters harmful content to ensure interaction safety.
 
 ## Quick Start
 

@@ -1,0 +1,8 @@
+# Ignore Gemini api key file
+secrets.py
+
+# Ignore PyCharm configuration directory
+.idea/
+
+##
+__pycache__/
